@@ -1,16 +1,35 @@
-## Hi there 👋
+# Gabriel Ladanu
 
-<!--
-**GabrielTheLad/GabrielTheLad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building practical skills in **Identity & Access Management, Microsoft Entra, Email Security, and Cloud Security**.
 
-Here are some ideas to get you started:
+I use this GitHub to document hands-on labs, technical experiments, and security projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+
+- Identity & Access Management
+- Microsoft Entra ID
+- Authentication & Authorization
+- Email Security
+- Microsoft 365 Security
+- Cloud Security
+
+## Current Learning
+
+- Conditional Access
+- Microsoft Entra ID
+- Identity Governance
+- Privileged Access
+- SSO & Federation
+
+## Featured Project
+
+### Email Authentication Security Lab
+
+Hands-on implementation and testing of SPF, DKIM, and DMARC using Microsoft 365, Gmail, SendGrid, and a custom domain.
+
+[View the project][(https://github.com/GabrielTheLad/email-authentication-security-lab)]
+
+## Certifications
+
+- Google Cybersecurity Professional Certificate
+- CompTIA Security+ — In Progress
